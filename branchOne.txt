@@ -1,3 +1,4 @@
 file added to branch One
 conflict branchOne
 conflict branchTwo
+added new line in branchTwo
