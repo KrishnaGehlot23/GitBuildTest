@@ -29,6 +29,6 @@ public class Demo001
 		ArrayList<String> clone1 = new ArrayList<String>(allText1);
 		Collections.sort(clone1);
 		System.out.println(clone1.equals(allText1));
-//		creating conflict between branch and master
+//		sending conflict between branchOne and master
 	}
 }
