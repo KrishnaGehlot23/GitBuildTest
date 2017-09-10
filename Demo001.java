@@ -30,6 +30,9 @@ public class Demo001
 		ArrayList<String> clone3 = new ArrayList<String>(allText2);
 		Collections.sort(clone3);
 		System.out.println(clone2.equals(allText2))
+      
+//		creating conflict between branchTwo and master
+	
 //		creating conflict between branch and master
 
    //branch two
