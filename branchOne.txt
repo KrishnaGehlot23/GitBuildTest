@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 file added to branch One
 conflict branchTwo
-=======
-file added to branch One
->>>>>>> b7df4a89a4a62e3009c6082c45fe62bd107d595c
