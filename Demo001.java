@@ -24,5 +24,12 @@ public class Demo001
 		ArrayList<String> clone2 = new ArrayList<String>(allText2);
 		Collections.sort(clone2);
 		System.out.println(clone2.equals(allText2));
+
+//		git commit branch two
+		
+		ArrayList<String> clone3 = new ArrayList<String>(allText2);
+		Collections.sort(clone3);
+		System.out.println(clone2.equals(allText2))
+		
 	}
 }
